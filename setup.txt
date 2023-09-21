@@ -1,1 +1,14 @@
+sudo su
+sudo apt-get update
+sudo apt-get install python3.10.6
+
+#download files from https://github.com/R3X-US/SqlInjection-FakeEnvironment
+
+extract them to a folder
+
+go inside the folder in command line
+
+pip install -r requirements.txt
+
+python main.py
 
